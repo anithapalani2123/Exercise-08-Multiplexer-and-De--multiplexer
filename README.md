@@ -113,11 +113,14 @@ endmodule
 ###  MUX TIMING DIGRAMS:
 
 
-![output](./wave.png)
+![output](./mux1.png)
+![output](./mux2.png)
+![output](./mux3.png)
+![output](./mux4.png)
 
 
 ### DEMUX TIMING DIGRAMS:
-![output](./wave1.png)
+![output](./demuxwave.png)
 
 
 
